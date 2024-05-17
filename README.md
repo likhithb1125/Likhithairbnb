@@ -8,7 +8,7 @@ Dataset Description
 Objectives
 Installation
 Usage
-Analysis
+Analysiss
 Results
 Contributing
 License
