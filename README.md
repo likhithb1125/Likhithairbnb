@@ -57,10 +57,20 @@ seaborn
 The analysis is divided into several sections:
 
 Data Cleaning: Handling missing values, correcting data types, and removing duplicates.
+
+
 Exploratory Data Analysis (EDA): Visualizing data distributions, correlations, and key statistics.
+
+
 Price Analysis: Investigating factors influencing pricing.
+
+
 Review Analysis: Examining review patterns and host ratings.
+
+
 Geographical Analysis: Mapping listings and analyzing location-based trends.
+
+
 Host Analysis: Studying host behavior and performance metrics.
 # Results
 The key findings from the analysis will be documented in the Results section of the Jupyter Notebook. This includes insights on pricing trends, customer preferences, popular locations, and more.
